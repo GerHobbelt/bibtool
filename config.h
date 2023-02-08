@@ -52,7 +52,8 @@
 	"Article"	,"Book"		,"Booklet"	,"Conference"	,\
 	"InBook"	,"InCollection"	,"InProceedings","Manual"	,\
 	"MastersThesis"	,"Misc"		,"PhDThesis"	,"Proceedings"	,\
-	"TechReport"	,"Unpublished"	
+	"TechReport"	,"Unpublished"	,\
+	"Report", "Online", "Software", "Thesis"
 
 /*-----------------------------------------------------------------------------
 **  If the following macro is defined then the listed macros are predefined.
