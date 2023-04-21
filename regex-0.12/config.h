@@ -44,7 +44,7 @@
 /*-----------------------------------------------------------------------------
 **  Define if you have <alloca.h> and it should be used (not on Ultrix).
 */
-#define HAVE_ALLOCA_H 1
+/* #undef HAVE_ALLOCA_H */
 
 /*-----------------------------------------------------------------------------
 **  Define to one of _getb67, GETB67, getb67 for Cray-2 and Cray-YMP systems.
